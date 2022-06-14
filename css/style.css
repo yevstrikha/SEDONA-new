@@ -36,7 +36,8 @@ header .container{
     left: 50%;
     max-width: 140px;
     width: 100%;
-    transform: translate(-50%,0);
+    transform: translate(-50%,0)
+    
 }
 .menu{
     display: flex;
